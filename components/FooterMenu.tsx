@@ -121,27 +121,27 @@ const FooterMenu = () => {
     {
       title: 'Discord',
       icon: <IconBrandDiscord className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://discord.librechat.ai/',
+      href: 'https://nionium.ai/',
     },
     {
       title: 'LinkedIn',
       icon: <IconBrandLinkedin className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://linkedin.librechat.ai/',
+      href: 'https://nionium.ai',
     },
     {
       title: 'Twitter',
       icon: <IconBrandTwitter className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://x.com/LibreChatAI',
+      href: 'https://nionium.ai',
     },
     {
       title: 'YouTube',
       icon: <IconBrandYoutube className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'https://www.youtube.com/@LibreChat',
+      href: 'https://nionium.ai',
     },
     {
       title: 'Email',
       icon: <IconMail className="h-full w-full text-neutral-500 dark:text-neutral-300" />,
-      href: 'mailto:contact@librechat.ai',
+      href: 'mailto:management.ai',
     },
   ]
 
